@@ -1,4 +1,4 @@
-module github.com/xtls/xray-core
+module github.com/ghostwolf90/mobile_Xray_Core_v2
 
 go 1.21.4
 
@@ -19,6 +19,7 @@ require (
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
 	github.com/vishvananda/netlink v1.2.1-beta.2.0.20230316163032-ced5aaba43e3
 	github.com/xtls/reality v0.0.0-20231112171332-de1173cf2b19
+	github.com/xtls/xray-core v1.8.7
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba
 	golang.org/x/crypto v0.18.0
 	golang.org/x/net v0.20.0
